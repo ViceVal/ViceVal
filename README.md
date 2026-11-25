@@ -1,16 +1,19 @@
-## Hi there 👋
+ola
+soy panque
+kiuvo.
 
-<!--
-**ViceVal/ViceVal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="640" height="853" alt="image" src="https://github.com/user-attachments/assets/86ce6d65-565e-42e5-91ca-ffc5c006da18" />
 
-Here are some ideas to get you started:
+soy computin
+hago paginas, programas, jueguitos
+uso linux mint pq soy un chamullento de linux 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+mi proyectos son
++ pagina web comercial 1
++ pagina web comercial 2
++ pagina web comercial 3
++ proyecto esp
++ uhhhhhhhh
++ me platine el cardjutsu
+
+
