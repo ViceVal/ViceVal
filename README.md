@@ -3,8 +3,11 @@ soy panque
 kiuvo.
 
 soy computin
+
 hago paginas, programas, jueguitos
+
 uso linux mint pq soy un chamullento de linux 
+
 
 mi proyectos son
 + pagina web comercial 1
