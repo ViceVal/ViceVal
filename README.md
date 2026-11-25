@@ -2,8 +2,6 @@ ola
 soy panque
 kiuvo.
 
-<img width="640" height="853" alt="image" src="https://github.com/user-attachments/assets/86ce6d65-565e-42e5-91ca-ffc5c006da18" />
-
 soy computin
 hago paginas, programas, jueguitos
 uso linux mint pq soy un chamullento de linux 
@@ -15,5 +13,7 @@ mi proyectos son
 + proyecto esp
 + uhhhhhhhh
 + me platine el cardjutsu
+
+<img width="640" height="853" alt="image" src="https://github.com/user-attachments/assets/86ce6d65-565e-42e5-91ca-ffc5c006da18" />
 
 
